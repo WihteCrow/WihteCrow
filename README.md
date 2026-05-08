@@ -87,5 +87,3 @@
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-002260?style=flat&logo=centos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bytes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
