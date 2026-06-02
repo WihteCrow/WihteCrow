@@ -7,6 +7,16 @@
 
 ## Tech & Tools Preference
 
+![Ollama](https://img.shields.io/badge/Ollama-%23242424.svg?style=flat&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23001eff.svg?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-%23252f36.svg?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%231c1c1c.svg?style=flat&logo=cursor&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3D3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3D3C?style=flat&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-%2345009c?style=flat&logo=langfuse&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
